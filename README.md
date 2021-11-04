@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheFlyingPirate
 - 👀 I’m interested in Hardware and Software Development
-- 🌱 I’m currently learning designing of a CPU
+- 🌱 I’m currently learning Game Design
 - 💞️ I’m looking to collaborate on creating a small custom 8bit Computer
 - 📫 How to reach me sascha@maigatter.net
 
